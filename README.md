@@ -1,5 +1,6 @@
 # Node.js Basics Tutorial Series 🚀
-https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png
+<img width="1200" height="735" alt="image" src="https://github.com/user-attachments/assets/2a1fd96e-73de-4271-9e64-513b4c9da617" />
+
 
 
 A collection of beginner-friendly Node.js tutorials covering fundamental concepts with practical examples.
