@@ -1,0 +1,15 @@
+{
+  "name": "filehandling",
+  "version": "1.0.0",
+  "description": "this is a file handling project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file",
+    "handling"
+  ],
+  "author": "mohsin ahmad",
+  "license": "ISC"
+}

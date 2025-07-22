@@ -1,0 +1,17 @@
+{
+  "name": "connettomongodb",
+  "version": "1.0.0",
+  "description": "this is simple connection to mongo db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongodb"
+  ],
+  "author": "mohsin",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.1.0"
+  }
+}

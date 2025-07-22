@@ -1,0 +1,18 @@
+{
+  "name": "makehtmlfiles",
+  "version": "1.0.0",
+  "description": "in this article we create html pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "files"
+  ],
+  "author": "mohsin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
